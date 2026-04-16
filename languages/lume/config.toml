@@ -1,0 +1,10 @@
+name = "Lume"
+grammar = "lume"
+path_suffixes = ["lm"]
+line_comments = ["// "]
+tab_size = 3
+brackets = [
+    { start = "{", end = "}", close = true, newline = true },
+    { start = "(", end = ")", close = true, newline = false },
+    { start = "<", end = ">", close = true, newline = false },
+]

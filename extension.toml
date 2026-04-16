@@ -1,0 +1,11 @@
+id = "lume"
+name = "lume"
+description = "lume"
+version = "0.0.1"
+schema_version = 1
+authors = ["Sarah Hawkless <abc@xyz.com>"]
+repository = "https://github.com/orlaya/lume_zed"
+
+[grammars.lume]
+repository = "https://github.com/orlaya/lume_tree"
+commit = "1e8778c91c417f2a5a9df7ee6f4ad67d8cdb7942"
