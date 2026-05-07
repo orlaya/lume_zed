@@ -8,4 +8,4 @@ repository = "https://github.com/orlaya/lume_zed"
 
 [grammars.lume]
 repository = "https://github.com/orlaya/lume_tree"
-commit = "25ab01285e57582f50e06d1baf55147eba0f473f"
+commit = "4b664d436717a5f313def96740cd725709ba50c3"
